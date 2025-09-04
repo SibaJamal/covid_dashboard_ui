@@ -7,9 +7,9 @@
 ## 📖 About the Project
 A mobile application designed to help track COVID-19 cases and provide essential support.  
 The app allows users to:  
-- Monitor the number of infections and deaths in real time  
-- Request help or emergency assistance  
-- Book a COVID-19 test directly through the app  
+- 📊 Monitor the number of infections and deaths in real time  
+- 🆘 Request help or emergency assistance  
+- 🧪 Book a COVID-19 test directly through the app  
 
 ---
 
@@ -25,6 +25,7 @@ The app allows users to:
 ## 🛠️ Built With
 - [Flutter](https://flutter.dev/) – Cross-platform framework  
 - [Dart](https://dart.dev/) – Programming language  
+
 
 
 
