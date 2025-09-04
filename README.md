@@ -1,16 +1,30 @@
-# covid_dashboard_ui
+# 🚀 covid_dashboard_ui
 
-A new Flutter project.
+![Flutter](https://img.shields.io/badge/Flutter-Framework-blue)
+![Dart](https://img.shields.io/badge/Dart-Language-blueviolet)
+![Status](https://img.shields.io/badge/Status-Active-success)
 
-## Getting Started
+## 📖 About the Project
+A mobile application designed to help track COVID-19 cases and provide essential support.  
+The app allows users to:  
+- Monitor the number of infections and deaths in real time  
+- Request help or emergency assistance  
+- Book a COVID-19 test directly through the app  
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p align="center">
+  <img src="screenshots/covid1.png" width="250" />
+  <img src="screenshots/covid2.png" width="250" />
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Built With
+- [Flutter](https://flutter.dev/) – Cross-platform framework  
+- [Dart](https://dart.dev/) – Programming language  
+
+
+
